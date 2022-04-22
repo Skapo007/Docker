@@ -8,7 +8,7 @@ public class main {
 	System.out.println(sb.capacity());
 	System.out.println(sb.length()+"exmp something ");
 	
-	System.out.println(sb.length()+"exmp  nothing  something very     ");
+	System.out.println(sb.length()+"exmp  nothing  something very    basic ");
 	}
 	
 }
