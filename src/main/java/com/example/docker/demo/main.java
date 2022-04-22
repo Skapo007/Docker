@@ -6,7 +6,7 @@ public class main {
 		StringBuffer sb = new StringBuffer("a");
 	sb.append("Test");
 	System.out.println(sb.capacity());
-	System.out.println(sb.length()+"exmp");
+	System.out.println(sb.length()+"exmp something");
 	}
 	
 	
